@@ -1,0 +1,1 @@
+static const char *compiler_flags="mpicxx  -std=c++11  -ggdb -O3 -march=native  -Wall -Wno-format-security    -I/opt/local/include -I/opt/local/include  -I/opt/local/include   -I/opt/local/include/healpix_cxx  -Ibuild -Isrc";
