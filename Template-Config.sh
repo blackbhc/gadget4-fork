@@ -209,4 +209,4 @@ OUTPUT_POTENTIAL # output gravitational potential
 
 #---------------------------------------- Galotfa options
 
-#GALOTFA_ON                                    # enables the Galotfa, requires EVALPOTENTIAL or OUTPUT_POTENTIAL to be set
+#GALOTFA_ON                                    # enables the Galotfa, requires EVALPOTENTIAL to be enabled
