@@ -12,7 +12,7 @@
 .DS_Store
 
 #binaries
-# build
+build
 Arepo
 Arepo.dSYM
 Tenet
@@ -32,7 +32,7 @@ processes_*.txt
 *.o*
 *.e*
 *\#
-# *.sh
+*.sh
 
 #potentially large files
 *.h5
